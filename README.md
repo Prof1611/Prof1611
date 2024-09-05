@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prof1611
+- 🌱 I’m currently working on a custom Discord bot.
+- 📫 How to reach me:
+    - Discord: Tygafire
+- 😄 Pronouns: he/him
