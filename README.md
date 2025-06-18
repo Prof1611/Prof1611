@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m a UK-based developer, community builder, and
 
 ### 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-Tygafire-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/Tygafire)
+![Discord](https://img.shields.io/badge/Discord-Tygafire-5865F2?style=flat&logo=discord&logoColor=white)
 ![Pronouns](https://img.shields.io/badge/Pronouns-he/him-blueviolet)
 
 ---
